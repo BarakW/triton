@@ -25,7 +25,7 @@ Polyhedral compilation is a vast area of research. In this section we only outli
     |.. code-block:: C                                    | |pic1|                                              |
     |                                                     |                                                     |
     |   for(int i = 0; i < 3; i++)                        |                                                     |
-    |   for(int j = i; j < 5; j++)                        |                                                     |
+    |   for(int j = i; j < 7; j++)                        |                                                     |
     |     A[i][j] = 0;                                    |                                                     |
     +-----------------------------------------------------+-----------------------------------------------------+
 
